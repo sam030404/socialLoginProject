@@ -35,4 +35,3 @@ Where username='park';
 UPDATE USERINFO
 Set userId='dsa'
 Where username='kim';
-
